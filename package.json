@@ -1,6 +1,6 @@
 {
   "name": "s-tester",
-  "description": "w-browser tester",
+  "description": "Swing Tester",
   "version": "0.1.0",
   "author": {
     "name": "kimwooglae",
@@ -11,11 +11,13 @@
   },
   "dependencies": {
       "strftime": "~0.9.2",
-      "selenium-webdriver": "~2.53.3"
+      "selenium-webdriver": "~2.53.3",
+      "mkdirp":"~0.5.1"
   },
   "devDependencies": {
       "strftime": "~0.9.2",
-      "selenium-webdriver": "~2.53.3"
+      "selenium-webdriver": "~2.53.3",
+      "mkdirp":"~0.5.1"
   },
   "peerDependencies": {
   },
